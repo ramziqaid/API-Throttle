@@ -6,8 +6,7 @@ using System.Net;
 namespace Api
 {
     public class ThrottleAttribute : IActionFilter
-    {
-        private readonly IHttpContextAccessor _httpContextAccessor;
+    { 
    
         private IMemoryCache _cache;
         public string Name { get; set; }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rqaid\\source\\repos\\Api\\Api\\Api Throttle.csproj": {}
+    "C:\\Users\\rqaid\\Source\\Repos\\ramziqaid\\API-Throttle\\Api\\Api Throttle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rqaid\\source\\repos\\Api\\Api\\Api Throttle.csproj": {
+    "C:\\Users\\rqaid\\Source\\Repos\\ramziqaid\\API-Throttle\\Api\\Api Throttle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rqaid\\source\\repos\\Api\\Api\\Api Throttle.csproj",
+        "projectUniqueName": "C:\\Users\\rqaid\\Source\\Repos\\ramziqaid\\API-Throttle\\Api\\Api Throttle.csproj",
         "projectName": "Api Throttle",
-        "projectPath": "C:\\Users\\rqaid\\source\\repos\\Api\\Api\\Api Throttle.csproj",
+        "projectPath": "C:\\Users\\rqaid\\Source\\Repos\\ramziqaid\\API-Throttle\\Api\\Api Throttle.csproj",
         "packagesPath": "C:\\Users\\rqaid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rqaid\\source\\repos\\Api\\Api\\obj\\",
+        "outputPath": "C:\\Users\\rqaid\\Source\\Repos\\ramziqaid\\API-Throttle\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rqaid\\AppData\\Roaming\\NuGet\\NuGet.Config",
